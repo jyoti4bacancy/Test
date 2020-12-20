@@ -12,3 +12,4 @@ const event={
 event.printguestlist();
 
 console.log("THANK YOU For PARTY!!!");
+console.log("this is a stash log.");
