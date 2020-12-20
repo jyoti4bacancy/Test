@@ -10,3 +10,5 @@ const event={
     }
 }
 event.printguestlist();
+
+console.log("THANK YOU For PARTY!!!");
